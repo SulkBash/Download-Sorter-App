@@ -24,4 +24,4 @@ We welcome contributions! If you'd like to improve FileSorterPro, please feel fr
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details (if available).
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
